@@ -4,7 +4,7 @@
   * [🔥 What is $ASH](introduction/what-is-usdash.md)
   * [🐳 Why Burn $WHALE?](introduction/why-burn-usdwhale.md)
   * [💸 How to get $ASH](introduction/how-to-get-usdash.md)
-  * [🚙 $ASH Uses](introduction/usdash-uses.md)
+  * [🚙 $ASH Use cases](introduction/usdash-use-cases.md)
 
 ## Products
 
