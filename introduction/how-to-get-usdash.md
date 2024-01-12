@@ -10,5 +10,6 @@ There are two easy ways to get your hands and some ASH. As discussed in the prev
 
 ## Buying
 
-ASH has liquidity across two chains. You can purchase as on the WhiteWhale liquidity hub on the Migaloo Chain or buy it using the Osmosis DEX.&#x20;
+ASH has liquidity across two chains. You can purchase as on the [WhiteWhale](https://app.whitewhale.money/migaloo/swap?from=WHALE\&to=ASH)
 
+DEX Migaloo Satellite market or buy it using the [Osmosis DEX](https://app.osmosis.zone/?from=USDC\&to=ASH).&#x20;
