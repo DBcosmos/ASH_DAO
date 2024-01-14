@@ -1,7 +1,5 @@
 ---
-description: >-
-  ASH DAO is a community collective born out of their love of $ASH and the wider
-  Migaloo.Zone ecosystem
+description: From the Ashes we Build!
 ---
 
 # 👋 Introduction
