@@ -7,3 +7,11 @@ description: >-
 # 🔥 The Furnace
 
 The goal is to burn new tokens to forms of ASH. This will include community challenges called “GAME OF ASHES” including burning festivals, DAO wars, chain wars and competitions.
+
+{% embed url="https://whale.burn.community/" %}
+$WHALE Furnace
+{% endembed %}
+
+{% embed url="https://guppy.burn.community/" %}
+$GUPPY Furnace
+{% endembed %}

@@ -12,5 +12,6 @@
   * [What is GUPPY](products/guppy-dao/what-is-guppy.md)
   * [Staking GUPPY](products/guppy-dao/staking-guppy.md)
   * [Buying GUPPY](products/guppy-dao/buying-guppy.md)
+  * [Burning GUPPY](products/guppy-dao/burning-guppy.md)
 * [🔥 The Furnace](products/the-furnace.md)
 * [🥷 ASH FALL](products/ash-fall.md)
